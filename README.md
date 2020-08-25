@@ -4,7 +4,7 @@
 
 ## Installation
 
-To add this package as a local, per-project dependency to your project, simply add a dependency on `sebastian/finder-facade` to your project's `composer.json` file. Here is a minimal example of a `composer.json` file that just defines a dependency on FinderFacade 1.1:
+-To add this package as a local, per-project dependency to your project, simply add a dependency on `sebastian/finder-facade` to your project's `composer.json` file. Here is a minimal example of a `composer.json` file that just defines a dependency on FinderFacade 1.1:
 
     {
         "require": {
